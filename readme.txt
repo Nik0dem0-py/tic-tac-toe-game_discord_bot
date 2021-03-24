@@ -12,4 +12,4 @@ py -3 -m pip install -U discord.py
 
 
 Change (your token), into your bot's discord token
-The prefix is `t!` by default (you can change it where (command_prefix=''
+The prefix is `t!` by default (you can change it where (command_prefix='') is located
