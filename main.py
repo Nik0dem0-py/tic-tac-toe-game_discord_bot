@@ -2,7 +2,7 @@ import discord
 import random
 from discord.ext import commands
 
-client = commands.Bot(command_prefix='', case_insensitive=True)
+client = commands.Bot(command_prefix='t!', case_insensitive=True)
 client.remove_command('help')
 
 TOKEN = '(your token)'
