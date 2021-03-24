@@ -11,5 +11,7 @@ python3 -m pip install -U discord.py
 py -3 -m pip install -U discord.py
 
 
-Change (your token), into your bot's discord token
-The prefix is `t!` by default (you can change it where (command_prefix='') is located
+Change (your token), into your bot's discord token which is TOKEN = '(your token)'
+The prefix is t! by default, you can change it where client = commands.Bot(command_prefix='t!', case_insensitive=True) is located
+
+Now you can run your python TicTacToe bot!
